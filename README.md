@@ -1,0 +1,2 @@
+# NamingServer
+ Eureka naming server
